@@ -36,31 +36,32 @@
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" height="40" alt="cpp logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> -->
+  <!-- <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /> -->
+  <!-- <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="40" alt="django logo"  /> -->
+  <!-- <img width="12" /> -->
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </p>
 
 ## 🔥 Github stats
 
 <p align="center">
-   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet07012002&layout=compact&theme=aura" />
+   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet01012002&layout=compact&theme=aura" />
     &nbsp;
 </p>
 
 <details align="center">
     <summary> <code>Click for More Stats</code> </summary>
     <br>
-   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Abhijeet07012002&show_icons=true&theme=aura" />
+   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Abhijeet01012002&show_icons=true&theme=aura" />
   &nbsp;
-  <img width="40%" src="https://streak-stats.demolab.com?user=Abhijeet07012002&background=15141B&ring=A177FE&currStreakNum=61FECA&fire=61FECA&sideLabels=A177FE&currStreakLabel=A177FE&dates=61FECA&sideNums=A177FE" />  
+  <img width="40%" src="https://streak-stats.demolab.com?user=Abhijeet01012002&background=15141B&ring=A177FE&currStreakNum=61FECA&fire=61FECA&sideLabels=A177FE&currStreakLabel=A177FE&dates=61FECA&sideNums=A177FE" />  
    &nbsp;
-</details>
