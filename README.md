@@ -6,9 +6,9 @@
 </p>
 
 <p align='center'>
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=abhijeet07012002&label=Profile%20Views&pretty=false" />
-  </a>
+  <!-- <a href="https://visitcount.itsvg.in"> -->
+  <!-- <img src="https://visitcount.itsvg.in/api?id=abhijeet07012002&label=Profile%20Views&pretty=false" />
+  </a> -->
 </p>
 
 - 🌱 I’m currently learning **Advanced Python and AI Projects**
@@ -46,8 +46,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-   <img width="12" />
+/   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </p>
 
